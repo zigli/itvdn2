@@ -1,7 +1,5 @@
 package nested_classes;
 
-import com.sun.deploy.security.MozillaMyKeyStore;
-
 class MyClass{
     public class Inner{
         public void method(){
